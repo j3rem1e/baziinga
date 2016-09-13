@@ -7,6 +7,7 @@ iterations=10000
 #guild=Baziinga,region=eu,server=hyjal,ranks=1/2/3/4
 default_region=eu
 default_server=hyjal
+cache_players=1
 
 armory=Elidi
 armory=Müjnir
@@ -21,7 +22,7 @@ armory=Zuan
 armory=Eldiabløød
 armory=Rinotor
 armory=Beckîe
-armory=Ombràge
+#armory=Ombràge
 armory=Lâstykökö
 armory=Waleràn
 armory=Dèmonos

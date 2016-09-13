@@ -1,5 +1,5 @@
 #log=1
-html=report.html
+html=report_yamm.html
 iterations=10000
 
 #debug=1
