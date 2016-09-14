@@ -1,13 +1,15 @@
 #log=1
 html=report.html
 iterations=10000
+target_error=0.000
+optimal_raid=1
+fight_style=Patchwerk
 
-#debug=1
-#output=log.txt
-#guild=Baziinga,region=eu,server=hyjal,ranks=1/2/3/4
+calculate_scale_factors=1
+
 default_region=eu
 default_server=hyjal
-cache_players=1
+#cache_players=1
 
 armory=Elidi
 armory=Müjnir
