@@ -5,7 +5,7 @@ target_error=0.000
 optimal_raid=1
 fight_style=Patchwerk
 
-calculate_scale_factors=1
+#calculate_scale_factors=1
 
 default_region=eu
 default_server=hyjal
