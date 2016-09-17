@@ -1,35 +1,20 @@
 #log=1
-html=report_yamm.html
+html=yamm.html
 iterations=10000
 
-#debug=1
-#output=log.txt
-#guild=Baziinga,region=eu,server=hyjal,ranks=1/2/3/4
 default_region=eu
 default_server=hyjal
 
-calculate_scale_factors=1
+#calculate_scale_factors=1
 
-#armory=Elidi
-#armory=Müjnir
-#armory=Ehöl
-#armory=Decalang
-#armory=Malikoom
-#armory=Ulthuan
-#armory=Ethila
-#armory=Kaptah
-#armory=Ptitfille
-#armory=Zuan
-#armory=Eldiabløød
-#armory=Rinotor
-#armory=Beckîe
-#armory=Ombràge
-#armory=Lâstykökö
-#armory=Waleràn
-#armory=Dèmonos
-#armory=Ylvi
-#armory=Mastoria
 armory=Yåmm
-#armory=Kehål
-#armory=Wadzak
+name=yamm_10poly_45crit
+gear_agility=22700
+gear_haste_rating=1300
+gear_versatility_rating=4000
+gear_crit_rating=10150
+gear_mastery_rating=0
 
+copy=yamm_25mast_45crit
+gear_versatility_rating=0
+gear_mastery_rating=5950
