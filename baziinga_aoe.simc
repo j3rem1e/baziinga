@@ -1,5 +1,6 @@
 input=baziinga.simc
 
-#fight_style=LightMovement
+fight_style=HecticAddCleave
 html=report_aoe.html
+
 
