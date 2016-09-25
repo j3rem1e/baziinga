@@ -1,0 +1,10 @@
+#log=1
+html=osha.html
+iterations=10000
+
+default_region=eu
+default_server=hyjal
+
+calculate_scale_factors=1
+
+armory=Oshamëren
