@@ -12,7 +12,7 @@ default_server=hyjal
 #cache_players=1
 
 armory=Bonerot
-armory=Müjnir
+#armory=Müjnir
 armory=Decalang
 armory=Malikoom
 armory=Ethila
@@ -29,10 +29,10 @@ armory=Ptitchu
 armory=Oshamëren
 armory=Wadzak
 armory=Squallz
-armory=Kwetrose
+#aarmory=Kwetrose
 armory=Dastria
 armory=Cleoui
 armory=Ishtä
 armory=Laellorë
-armory=Sanlamuerte
+#armory=Sanlamuerte
 
