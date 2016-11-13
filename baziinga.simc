@@ -4,6 +4,7 @@ iterations=10000
 target_error=0.000
 optimal_raid=1
 fight_style=Patchwerk
+debug=0
 
 #calculate_scale_factors=1
 
@@ -12,10 +13,10 @@ default_server=hyjal
 #cache_players=1
 
 armory=Bonerot
-#armory=Müjnir
+armory=Müjnir
 armory=Decalang
 armory=Malikoom
-armory=Ethila
+#armory=Ethila
 armory=Kaptah
 armory=Ptitfille
 armory=Zuan
